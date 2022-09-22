@@ -55,7 +55,7 @@ Photo credit: Soobin Rho
 > used to say: "do observation with your eyes
 > and your hands."
 >
-> **How did I remove the background?**<br>
+> **How did you remove the background?**<br>
 > I used a website called
 > [remove.bg](https://www.remove.bg/)
 > which uses a machine-learning algorithm

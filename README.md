@@ -53,7 +53,7 @@ Photo credit: Soobin Rho
 > on a 1x1 meter area of our choice throughout
 > the semester. I remember what Dr. O'Hara
 > used to say: "do observation with your eyes
-> and your pictures."
+> and your hands."
 >
 > How did I remove the background?<br>
 > I used a website called

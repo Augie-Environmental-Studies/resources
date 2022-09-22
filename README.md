@@ -21,3 +21,45 @@
     <img alt="Twitter" src="https://user-images.githubusercontent.com/19341857/191081683-e9bdeb25-7c0a-450f-a9e4-8626c21e25fa.svg">
   </a>
 </p>
+
+<br>
+
+> **What is this repository for?**<br>
+> This repository stores resource files used commonly
+> while development. For instance, the *Sunflower* image
+> below is used as the background picture of the 
+> [Augie Gardens website](https://augie-environmental-studies.github.io/gardens/).
+
+## List of Resources
+[1.](#sunflower) Sunflower<br>
+
+<!--
+[2.](#2-containerizing-the-website) Containerizing the website
+-->
+
+<br>
+
+### Sunflower
+
+September, 2022<br>
+Prairie Restoration Garden<br>
+Photo credit: Soobin Rho
+
+> I took this photo for my 
+> *Seminar in Environmental Philosophy* class,
+> lectured by Dr. David O'Hara. One of
+> our assignments was to go to one of the
+> campus gardens and make observations
+> on a 1x1 meter area of our choice throughout
+> the semester. I remember what Dr. O'Hara
+> used to say: "do observation with your eyes
+> and your pictures."
+>
+> How did I remove the background?<br>
+> I used awebsite called
+> [remove.bg](https://www.remove.bg/)
+> which uses a machine-learning algorithm
+> to remove backgrounds automatically.
+
+![sunflower](./images/sunflower.png)
+![sunflower_unedited](./images/sunflower_unedited.jpg)

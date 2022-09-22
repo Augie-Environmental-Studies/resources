@@ -56,7 +56,7 @@ Photo credit: Soobin Rho
 > and your pictures."
 >
 > How did I remove the background?<br>
-> I used awebsite called
+> I used a website called
 > [remove.bg](https://www.remove.bg/)
 > which uses a machine-learning algorithm
 > to remove backgrounds automatically.

@@ -55,11 +55,17 @@ Photo credit: Soobin Rho
 > used to say: "do observation with your eyes
 > and your hands."
 >
-> How did I remove the background?<br>
+> **How did I remove the background?**<br>
 > I used a website called
 > [remove.bg](https://www.remove.bg/)
 > which uses a machine-learning algorithm
 > to remove backgrounds automatically.
+> At first, I didn't remove the background, but
+> I realized that 
+> [Augie Gardens website](https://augie-environmental-studies.github.io/gardens/)
+> looks better with the background removed because
+> this emphasizes the sunflower and the bee.
+
 
 ![sunflower](./images/sunflower.png)
 ![sunflower_unedited](./images/sunflower_unedited.jpg)

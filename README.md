@@ -47,7 +47,7 @@ Photo credit: Soobin Rho
 
 > I took this photo for my 
 > *Seminar in Environmental Philosophy* class,
-> lectured by Dr. David O'Hara. One of
+> which was taught by Dr. David O'Hara. One of
 > our assignments was to go to one of the
 > campus gardens and make observations
 > on a 1x1 meter area of our choice throughout

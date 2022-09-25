@@ -66,7 +66,8 @@ Photo credit: Soobin Rho
 > I realized that 
 > [Augie Gardens website](https://augie-environmental-studies.github.io/gardens/)
 > looks better with the background removed because
-> this emphasizes the sunflower and the bee.
+> this not only makes it easier to read the text
+> on the website, but also emphasizes the sunflower and the bee.
 
 
 ![sunflower](./images/sunflower.png)

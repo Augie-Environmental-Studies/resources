@@ -25,8 +25,8 @@
 <br>
 
 > **What is this repository for?**<br>
-> This repository stores resource files that are used commonly
-> while development. For instance, the *Sunflower* image
+> This repository stores resource files that are frequently used
+> for development. For instance, the *Sunflower* image
 > below is used as the background picture of the 
 > [Augie Gardens website](https://augie-environmental-studies.github.io/gardens/).
 

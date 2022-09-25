@@ -35,6 +35,8 @@
 
 <!--
 [2.](#2-containerizing-the-website) Containerizing the website
+
+Logo designed by Alexa Lammers
 -->
 
 <br>
